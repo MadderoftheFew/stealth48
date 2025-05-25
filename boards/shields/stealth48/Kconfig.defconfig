@@ -1,0 +1,6 @@
+if SHIELD_STEALTH48
+
+config ZMK_KEYBOARD_NAME
+    default "Stealth48"
+
+endif

@@ -1,0 +1,9 @@
+file_format: "1"
+id: stealth48
+name: Stealth48
+type: shield
+url: https://github.com/MadderoftheFew/stealth48
+requires: [pro_micro]
+features:
+  - keys
+  - studio
